@@ -9,7 +9,7 @@ LUAPOWER WINDOWS CI SERVER HOWTO:
   - this folder will be shared with Linux via vboxfs and with OSX via samba.
 
 * set logged user's password in case it has no password and set sharing
-on the luapower folder.
+on the luapower folder (samba client on OSX doesn't work without a password).
 
 * add `%USERPROFILE%/.ssh/id_rsa and authorized_keys files in from vault.
   - this will make git along with its own version of ssh and scp work
@@ -19,4 +19,3 @@ on the luapower folder.
 
 * install & configure the Bitvise SSH Server. Create a virtual account and 
 set bash.exe as shell with full access.
-
