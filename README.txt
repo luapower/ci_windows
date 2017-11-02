@@ -24,4 +24,5 @@ set bash.exe as shell with full access.
 * install Synergy for the Win-Mac multi-monitor setup.
 * install RealVNC to control headless Macs.
 
-* other tools: putty, puttygen, Total Commander with Fileinfo lister plugin, WinSCP, WakeMeOnLAN, TreeSizeFree.
+* other tools: putty, puttygen, Total Commander with Fileinfo lister plugin, 
+WinSCP, WakeMeOnLAN, TreeSizeFree.
