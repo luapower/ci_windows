@@ -19,3 +19,9 @@ on the luapower folder (samba client on OSX doesn't work without a password).
 
 * install & configure the Bitvise SSH Server. Create a virtual account and 
 set bash.exe as shell with full access.
+
+* install 4t Tray Minimizer free to move VBox VM windows to tray.
+* install Synergy for the Win-Mac multi-monitor setup.
+* install RealVNC to control headless Macs.
+
+* other tools: putty, puttygen, Total Commander with Fileinfo lister plugin, WinSCP, WakeMeOnLAN, TreeSizeFree.
