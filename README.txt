@@ -8,6 +8,8 @@ LUAPOWER WINDOWS CI SERVER HOWTO:
 * download luapower via mgit in `x:/luapower`
   - this folder will be shared with Linux via vboxfs and with OSX via samba.
 
+* copy git-up script to `C:\Program Files\Git\mingw64\libexec\git-core`
+
 * set logged user's password in case it has no password and set sharing
 on the luapower folder (samba client on OSX doesn't work without a password).
 
